@@ -1,0 +1,3 @@
+06-29 10:19:51 [pool-1-thread-4] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: Broken pipe
+06-29 10:20:45 [pool-1-thread-5] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: Broken pipe
+06-29 10:40:57 [pool-1-thread-2] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: Connection timed out

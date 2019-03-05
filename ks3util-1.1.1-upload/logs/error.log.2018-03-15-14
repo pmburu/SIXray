@@ -1,0 +1,5 @@
+03-15 14:04:57 [main] ERROR com.kingsoft.ks3util.Ks3Util L41 - Command error
+java.lang.IllegalArgumentException: File not found:/home/lhy/Documents/Code/ImageClf/snapshots/trt_titanxp_resnet152_fcn_bc14_terrorism_20180210.tgz
+	at com.kingsoft.ks3util.command.PutCommand.verifyParams(PutCommand.java:55)
+	at com.kingsoft.ks3util.command.BaseCommand.run(BaseCommand.java:51)
+	at com.kingsoft.ks3util.Ks3Util.main(Ks3Util.java:34)

@@ -1,0 +1,3 @@
+09-01 12:15:24 [main] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.ClientFileNotFoundException: java.io.FileNotFoundException: /media/lhy/Data/Porn/zhibo_0.3 (Is a directory)
+09-01 12:15:24 [main] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.ClientFileNotFoundException: java.io.FileNotFoundException: /media/lhy/Data/Porn/zhibo_0.3 (Is a directory)
+09-01 12:15:24 [main] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.ClientFileNotFoundException: java.io.FileNotFoundException: /media/lhy/Data/Porn/zhibo_0.3 (Is a directory)

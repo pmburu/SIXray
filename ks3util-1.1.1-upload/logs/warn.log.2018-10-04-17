@@ -1,0 +1,2 @@
+10-04 17:24:52 [pool-1-thread-8] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: 断开的管道
+10-04 17:43:30 [pool-1-thread-1] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: 连接超时

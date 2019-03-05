@@ -1,0 +1,12 @@
+03-04 21:15:15 [main] ERROR com.kingsoft.ks3util.Ks3Util L41 - Command error
+java.io.FileNotFoundException: /ImageSet.zip (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at org.apache.commons.io.FileUtils.openOutputStream(FileUtils.java:360)
+	at org.apache.commons.io.FileUtils.openOutputStream(FileUtils.java:319)
+	at org.apache.commons.io.FileUtils.copyToFile(FileUtils.java:1552)
+	at org.apache.commons.io.FileUtils.copyInputStreamToFile(FileUtils.java:1528)
+	at com.kingsoft.ks3util.command.GetCommand.execute(GetCommand.java:55)
+	at com.kingsoft.ks3util.command.BaseCommand.run(BaseCommand.java:68)
+	at com.kingsoft.ks3util.Ks3Util.main(Ks3Util.java:34)

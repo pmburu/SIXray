@@ -1,0 +1,2 @@
+05-22 15:55:28 [pool-1-thread-12] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: 连接超时
+05-22 15:56:58 [pool-1-thread-5] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: 连接超时

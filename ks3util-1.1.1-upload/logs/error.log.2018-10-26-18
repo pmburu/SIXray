@@ -1,0 +1,5 @@
+10-26 18:10:07 [main] ERROR com.kingsoft.ks3util.Ks3Util L41 - Command error
+java.lang.IllegalArgumentException: File not found:/home/sjw/Documents/Code/multi_binary_clf/snapshots/resnet152_fcn_bc16_terrorism_20181026.tgz
+	at com.kingsoft.ks3util.command.PutCommand.verifyParams(PutCommand.java:55)
+	at com.kingsoft.ks3util.command.BaseCommand.run(BaseCommand.java:51)
+	at com.kingsoft.ks3util.Ks3Util.main(Ks3Util.java:34)

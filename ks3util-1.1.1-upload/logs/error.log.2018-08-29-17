@@ -1,0 +1,5 @@
+08-29 17:07:50 [main] ERROR com.kingsoft.ks3util.Ks3Util L41 - Command error
+java.lang.IllegalArgumentException: File not found:/home/weisy/ranger-core/models/face_det_fea_attr_20180829.tgz
+	at com.kingsoft.ks3util.command.PutCommand.verifyParams(PutCommand.java:55)
+	at com.kingsoft.ks3util.command.BaseCommand.run(BaseCommand.java:51)
+	at com.kingsoft.ks3util.Ks3Util.main(Ks3Util.java:34)

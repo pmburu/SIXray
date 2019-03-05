@@ -1,0 +1,1 @@
+12-17 16:49:49 [pool-1-thread-1] WARN  com.ksyun.ks3.http.Ks3CoreController L105 - com.ksyun.ks3.exception.client.CallRemoteFailException: java.net.SocketException: 断开的管道
