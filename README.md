@@ -26,8 +26,11 @@ All publications using SIXray dataset should cite the paper below:
   1. Prerequisites:  JDK1.7 or 1.8
   2. download `ks3util-1.1.1`
   3.   `cd $DIR/ks3util-1.1.1`
+  
         `chmod 755 bin/ks3util`
+        
         `chmod 777 up_to_ks3.sh`
+        
          `./up_to_ks3.sh `
   4. more information see `ks3util-1.1.1/README.html`
 
