@@ -1,6 +1,6 @@
 # SIXray：A Large-scale Security Inspection X-ray Benchmark for  Prohibited Item Discovery in Overlapping Images
 
-[[Paper]](https://arxiv.org/pdf/1901.00303.pdf) [[code]]
+[[Paper]](https://arxiv.org/pdf/1901.00303.pdf) [[code]](https://github.com/MeioJane/CHR)
 
 ## INTRODUCTION
 The SIXray dataset is constructed by Pattern Recognition and Intelligent System Development Laboratory, University of Chinese Academy of Sciences.
