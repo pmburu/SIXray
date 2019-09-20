@@ -39,4 +39,5 @@ All publications using SIXray dataset should cite the paper below:
 
 * Another way to download all the dataset from [here](https://pan.baidu.com/s/1zSbpapRURc9Uzjl-1ZWI_w)
 
+* Download all the positive annotation from [here](https://pan.baidu.com/s/1ZNxsYWdVXHyDGG5EvVeadQ)
 
